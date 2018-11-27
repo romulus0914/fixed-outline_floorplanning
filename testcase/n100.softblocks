@@ -1,0 +1,440 @@
+NumSoftBlocks : 100
+NumTerminals : 334
+
+sb0 softrectilinear 1419 0.1 10
+sb1 softrectilinear 2405 0.1 10
+sb2 softrectilinear 1802 0.1 10
+sb3 softrectilinear 2479 0.1 10
+sb4 softrectilinear 551 0.1 10
+sb5 softrectilinear 1911 0.1 10
+sb6 softrectilinear 720 0.1 10
+sb7 softrectilinear 880 0.1 10
+sb8 softrectilinear 3100 0.1 10
+sb9 softrectilinear 656 0.1 10
+sb10 softrectilinear 936 0.1 10
+sb11 softrectilinear 2301 0.1 10
+sb12 softrectilinear 1708 0.1 10
+sb13 softrectilinear 2736 0.1 10
+sb14 softrectilinear 2709 0.1 10
+sb15 softrectilinear 3068 0.1 10
+sb16 softrectilinear 2052 0.1 10
+sb17 softrectilinear 2904 0.1 10
+sb18 softrectilinear 2448 0.1 10
+sb19 softrectilinear 1550 0.1 10
+sb20 softrectilinear 703 0.1 10
+sb21 softrectilinear 3200 0.1 10
+sb22 softrectilinear 1666 0.1 10
+sb23 softrectilinear 980 0.1 10
+sb24 softrectilinear 1260 0.1 10
+sb25 softrectilinear 2106 0.1 10
+sb26 softrectilinear 2200 0.1 10
+sb27 softrectilinear 1625 0.1 10
+sb28 softrectilinear 1794 0.1 10
+sb29 softrectilinear 1488 0.1 10
+sb30 softrectilinear 624 0.1 10
+sb31 softrectilinear 884 0.1 10
+sb32 softrectilinear 2279 0.1 10
+sb33 softrectilinear 770 0.1 10
+sb34 softrectilinear 1458 0.1 10
+sb35 softrectilinear 1178 0.1 10
+sb36 softrectilinear 2613 0.1 10
+sb37 softrectilinear 1200 0.1 10
+sb38 softrectilinear 1311 0.1 10
+sb39 softrectilinear 2860 0.1 10
+sb40 softrectilinear 754 0.1 10
+sb41 softrectilinear 1485 0.1 10
+sb42 softrectilinear 3286 0.1 10
+sb43 softrectilinear 2806 0.1 10
+sb44 softrectilinear 3055 0.1 10
+sb45 softrectilinear 1012 0.1 10
+sb46 softrectilinear 858 0.1 10
+sb47 softrectilinear 2145 0.1 10
+sb48 softrectilinear 1539 0.1 10
+sb49 softrectilinear 3055 0.1 10
+sb50 softrectilinear 2144 0.1 10
+sb51 softrectilinear 2166 0.1 10
+sb52 softrectilinear 2430 0.1 10
+sb53 softrectilinear 903 0.1 10
+sb54 softrectilinear 1098 0.1 10
+sb55 softrectilinear 1904 0.1 10
+sb56 softrectilinear 1071 0.1 10
+sb57 softrectilinear 846 0.1 10
+sb58 softrectilinear 1564 0.1 10
+sb59 softrectilinear 1850 0.1 10
+sb60 softrectilinear 920 0.1 10
+sb61 softrectilinear 759 0.1 10
+sb62 softrectilinear 1140 0.1 10
+sb63 softrectilinear 1620 0.1 10
+sb64 softrectilinear 2350 0.1 10
+sb65 softrectilinear 3192 0.1 10
+sb66 softrectilinear 4087 0.1 10
+sb67 softrectilinear 1760 0.1 10
+sb68 softrectilinear 3276 0.1 10
+sb69 softrectilinear 1458 0.1 10
+sb70 softrectilinear 1764 0.1 10
+sb71 softrectilinear 1408 0.1 10
+sb72 softrectilinear 3721 0.1 10
+sb73 softrectilinear 4087 0.1 10
+sb74 softrectilinear 1596 0.1 10
+sb75 softrectilinear 532 0.1 10
+sb76 softrectilinear 726 0.1 10
+sb77 softrectilinear 3762 0.1 10
+sb78 softrectilinear 1152 0.1 10
+sb79 softrectilinear 2460 0.1 10
+sb80 softrectilinear 928 0.1 10
+sb81 softrectilinear 2000 0.1 10
+sb82 softrectilinear 2679 0.1 10
+sb83 softrectilinear 352 0.1 10
+sb84 softrectilinear 1474 0.1 10
+sb85 softrectilinear 500 0.1 10
+sb86 softrectilinear 2072 0.1 10
+sb87 softrectilinear 1716 0.1 10
+sb88 softrectilinear 888 0.1 10
+sb89 softrectilinear 1026 0.1 10
+sb90 softrectilinear 1287 0.1 10
+sb91 softrectilinear 1848 0.1 10
+sb92 softrectilinear 416 0.1 10
+sb93 softrectilinear 2275 0.1 10
+sb94 softrectilinear 2419 0.1 10
+sb95 softrectilinear 969 0.1 10
+sb96 softrectilinear 2640 0.1 10
+sb97 softrectilinear 1139 0.1 10
+sb98 softrectilinear 1364 0.1 10
+sb99 softrectilinear 3234 0.1 10
+
+
+
+p1 terminal
+p2 terminal
+p3 terminal
+p4 terminal
+p5 terminal
+p6 terminal
+p7 terminal
+p8 terminal
+p9 terminal
+p10 terminal
+p11 terminal
+p12 terminal
+p13 terminal
+p14 terminal
+p15 terminal
+p16 terminal
+p17 terminal
+p18 terminal
+p19 terminal
+p20 terminal
+p21 terminal
+p22 terminal
+p23 terminal
+p24 terminal
+p25 terminal
+p26 terminal
+p27 terminal
+p28 terminal
+p29 terminal
+p30 terminal
+p31 terminal
+p32 terminal
+p33 terminal
+p34 terminal
+p35 terminal
+p36 terminal
+p37 terminal
+p38 terminal
+p39 terminal
+p40 terminal
+p41 terminal
+p42 terminal
+p43 terminal
+p44 terminal
+p45 terminal
+p46 terminal
+p47 terminal
+p48 terminal
+p49 terminal
+p50 terminal
+p51 terminal
+p52 terminal
+p53 terminal
+p54 terminal
+p55 terminal
+p56 terminal
+p57 terminal
+p58 terminal
+p59 terminal
+p60 terminal
+p61 terminal
+p62 terminal
+p63 terminal
+p64 terminal
+p65 terminal
+p66 terminal
+p67 terminal
+p68 terminal
+p69 terminal
+p70 terminal
+p71 terminal
+p72 terminal
+p73 terminal
+p74 terminal
+p75 terminal
+p76 terminal
+p77 terminal
+p78 terminal
+p79 terminal
+p80 terminal
+p81 terminal
+p82 terminal
+p83 terminal
+p84 terminal
+p85 terminal
+p86 terminal
+p87 terminal
+p88 terminal
+p89 terminal
+p90 terminal
+p91 terminal
+p92 terminal
+p93 terminal
+p94 terminal
+p95 terminal
+p96 terminal
+p97 terminal
+p98 terminal
+p99 terminal
+p100 terminal
+p101 terminal
+p102 terminal
+p103 terminal
+p104 terminal
+p105 terminal
+p106 terminal
+p107 terminal
+p108 terminal
+p109 terminal
+p110 terminal
+p111 terminal
+p112 terminal
+p113 terminal
+p114 terminal
+p115 terminal
+p116 terminal
+p117 terminal
+p118 terminal
+p119 terminal
+p120 terminal
+p121 terminal
+p122 terminal
+p123 terminal
+p124 terminal
+p125 terminal
+p126 terminal
+p127 terminal
+p128 terminal
+p129 terminal
+p130 terminal
+p131 terminal
+p132 terminal
+p133 terminal
+p134 terminal
+p135 terminal
+p136 terminal
+p137 terminal
+p138 terminal
+p139 terminal
+p140 terminal
+p141 terminal
+p142 terminal
+p143 terminal
+p144 terminal
+p145 terminal
+p146 terminal
+p147 terminal
+p148 terminal
+p149 terminal
+p150 terminal
+p151 terminal
+p152 terminal
+p153 terminal
+p154 terminal
+p155 terminal
+p156 terminal
+p157 terminal
+p158 terminal
+p159 terminal
+p160 terminal
+p161 terminal
+p162 terminal
+p163 terminal
+p164 terminal
+p165 terminal
+p166 terminal
+p167 terminal
+p168 terminal
+p169 terminal
+p170 terminal
+p171 terminal
+p172 terminal
+p173 terminal
+p174 terminal
+p175 terminal
+p176 terminal
+p177 terminal
+p178 terminal
+p179 terminal
+p180 terminal
+p181 terminal
+p182 terminal
+p183 terminal
+p184 terminal
+p185 terminal
+p186 terminal
+p187 terminal
+p188 terminal
+p189 terminal
+p190 terminal
+p191 terminal
+p192 terminal
+p193 terminal
+p194 terminal
+p195 terminal
+p196 terminal
+p197 terminal
+p198 terminal
+p199 terminal
+p200 terminal
+p201 terminal
+p202 terminal
+p203 terminal
+p204 terminal
+p205 terminal
+p206 terminal
+p207 terminal
+p208 terminal
+p209 terminal
+p210 terminal
+p211 terminal
+p212 terminal
+p213 terminal
+p214 terminal
+p215 terminal
+p216 terminal
+p217 terminal
+p218 terminal
+p219 terminal
+p220 terminal
+p221 terminal
+p222 terminal
+p223 terminal
+p224 terminal
+p225 terminal
+p226 terminal
+p227 terminal
+p228 terminal
+p229 terminal
+p230 terminal
+p231 terminal
+p232 terminal
+p233 terminal
+p234 terminal
+p235 terminal
+p236 terminal
+p237 terminal
+p238 terminal
+p239 terminal
+p240 terminal
+p241 terminal
+p242 terminal
+p243 terminal
+p244 terminal
+p245 terminal
+p246 terminal
+p247 terminal
+p248 terminal
+p249 terminal
+p250 terminal
+p251 terminal
+p252 terminal
+p253 terminal
+p254 terminal
+p255 terminal
+p256 terminal
+p257 terminal
+p258 terminal
+p259 terminal
+p260 terminal
+p261 terminal
+p262 terminal
+p263 terminal
+p264 terminal
+p265 terminal
+p266 terminal
+p267 terminal
+p268 terminal
+p269 terminal
+p270 terminal
+p271 terminal
+p272 terminal
+p273 terminal
+p274 terminal
+p275 terminal
+p276 terminal
+p277 terminal
+p278 terminal
+p279 terminal
+p280 terminal
+p281 terminal
+p282 terminal
+p283 terminal
+p284 terminal
+p285 terminal
+p286 terminal
+p287 terminal
+p288 terminal
+p289 terminal
+p290 terminal
+p291 terminal
+p292 terminal
+p293 terminal
+p294 terminal
+p295 terminal
+p296 terminal
+p297 terminal
+p298 terminal
+p299 terminal
+p300 terminal
+p301 terminal
+p302 terminal
+p303 terminal
+p304 terminal
+p305 terminal
+p306 terminal
+p307 terminal
+p308 terminal
+p309 terminal
+p310 terminal
+p311 terminal
+p312 terminal
+p313 terminal
+p314 terminal
+p315 terminal
+p316 terminal
+p317 terminal
+p318 terminal
+p319 terminal
+p320 terminal
+p321 terminal
+p322 terminal
+p323 terminal
+p324 terminal
+p325 terminal
+p326 terminal
+p327 terminal
+p328 terminal
+p329 terminal
+p330 terminal
+p331 terminal
+p332 terminal
+p333 terminal
+p334 terminal
