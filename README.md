@@ -13,7 +13,7 @@ make
 ```
 e.g.
 ```
-./hw3 ../testcase/n100.hardblocks ../testcase/n100.nets ../testcase/n100.pl ../testcase/n100.floorplan> 0.1
+./hw3 ../testcase/n100.hardblocks ../testcase/n100.nets ../testcase/n100.pl ../output/n100.floorplan 0.1
 ```
 
 ### TODO
